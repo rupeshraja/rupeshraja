@@ -49,7 +49,5 @@ I'm always interested in discussing how technology can solve financial challenge
 
 * **LinkedIn:** [Link to your LinkedIn Profile]
 * **Email:** [Your Professional Email Address]
-* **(Optional) Portfolio/Website:** [Link to your portfolio or personal website if you have one]
-* **(Optional) Gists/Projects:** Check out my public gists or repositories below for examples of my work! 👇
 
 ---
