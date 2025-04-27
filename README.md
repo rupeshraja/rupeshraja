@@ -33,7 +33,7 @@ Since 2020, I've passionately pursued programming, focusing on **Excel VBA** and
 
 ### ✨ Professional Services & Areas of Focus
 
-As a Freelancer/Contractor, I specialize in:
+I specialize in:
 
 * **Expert Bookkeeping & Accounting Services:** Reliable and accurate financial record management.
 * **Custom Automation Development:** Building targeted scripts (VBA/Python) for accounting, bookkeeping, and MIS reporting tasks.
